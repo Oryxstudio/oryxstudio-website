@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://oryxstudio.de/sitemap.xml
